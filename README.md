@@ -1,4 +1,4 @@
-### I'm Luis Sundar Romero Jimenez,✨ developer full stak ✨ 
+### I'm Luis Sundar Romero,✨ developer full stak ✨ 
 <!--
 
 **senixcode/senixcode** is a  _special_ repository because its `README.md` (this file) appears on your GitHub profile.
