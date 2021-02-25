@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 
 ### Github Stats
 
-![All Stats](https://github-readme-stats.vercel.app/api?username=senixcode&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)
+[![senixcode's github stats](https://github-readme-stats.vercel.app/api?username=senixcode&show_icons=true&hide=["contribs"]&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senixcode&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senixcode&layout=compact&theme=tokyonight)
