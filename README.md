@@ -33,3 +33,11 @@ Here are some ideas to get you started:
 [![senixcode's github stats](https://github-readme-stats.vercel.app/api?username=senixcode&show_icons=true&hide=["contribs"]&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senixcode&layout=compact&theme=tokyonight)
+<br/>
+
+<div align="start">
+  <h3 align="start">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+</div>
+<p align="start">
+<a href="https://www.linkedin.com/in/senixcode-developer/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
