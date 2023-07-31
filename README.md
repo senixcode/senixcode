@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **TypeScript, Docker, Testing, Clean code**
 - 👯 I’m looking to collaborate on **JavaScript Projects**
 - 💬 Ask me about **ReactJS, Vue js, JavaScript, NodeJS**
-- 📫 How to reach me: **codesenix.gmail.com**
+- 📫 How to reach me: **sundarluis98.gmail.com**
 
 ### Technologies
 
